@@ -1,6 +1,8 @@
 # Inky-Frame-4.0-Dashboard
 A simple dashboard using Pimoroni's inky frame 4.0 and an optional BME690 sensor.
 
+Old version (needs updating).
+
 Uses Open-meteo's weather API as well as The Guardian's API.
 You will need to add your own API key for the latter.
 
